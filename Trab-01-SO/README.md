@@ -74,10 +74,10 @@ goto menu
 :opcao5
 echo +++++++++++++++++++++++++++++++++++++++++++++++
 echo * Opcao 1 - Limpeza da lixeira                                 *
-echo * Opcao 2 - Backup na pasta deseja                             *
+echo * Opcao 2 - Backup                                             *
 echo * Opcao 3 - Scaneamento do disco rigido                        *
 echo * Opcao 4 - Fechar o sistema                                   *
-echo * Opcao 5 - Versão do sistema caso deseja saber                *
+echo * Opcao 5 - Versão do sistema                                  *
 echo * Opcao 6 - Lista de comandos                                  *
 echo +++++++++++++++++++++++++++++++++++++++++++++++
 pause
